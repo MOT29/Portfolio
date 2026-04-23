@@ -46,7 +46,7 @@ AnimatorState:
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
-  m_CycleOffsetParameter: offset
+  m_CycleOffsetParameter: state
   m_TimeParameter: 
 --- !u!91 &9100000
 AnimatorController:
@@ -57,7 +57,7 @@ AnimatorController:
   m_Name: Arm
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: offset
+  - m_Name: state
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0

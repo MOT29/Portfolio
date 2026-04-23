@@ -5,11 +5,12 @@ using UnityEngine;
 public class AnimatorCycleOffset : MonoBehaviour
 {
     Animator anim;
+	public float state;
 	
     void Start()
     {
         anim = GetComponent<Animator>();
-		anim.SetFloat("offset", Random.Range(0f, 1f));
+		anim.SetFloat("state", state);
     }
 
     // Update is called once per frame
