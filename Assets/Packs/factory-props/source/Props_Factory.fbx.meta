@@ -3,7 +3,102 @@ guid: 4d0cca712cd6b024e9eefd196518cfea
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barrel + tools
+    second: {fileID: 2100000, guid: 182ee501d17df78408245ad7ff335107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom
+    second: {fileID: 2100000, guid: 5db72de13165cfb439d6c22efc78c750, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Big Generator
+    second: {fileID: 2100000, guid: 762ebaff493029348b5ad77ef7f33d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carts
+    second: {fileID: 2100000, guid: 397736559308abb4e8840431138e8908, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Container_01
+    second: {fileID: 2100000, guid: f62c92b939837e441ab370dcc89b65ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Container_02
+    second: {fileID: 2100000, guid: 1aa9f0034ec317d43b9406cd336b3883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crate
+    second: {fileID: 2100000, guid: 58df23f6ca11e5440a8a0bbabf13ba41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ladders
+    second: {fileID: 2100000, guid: 02145a6800dd72d49bcc1a3b7d67f4b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamps
+    second: {fileID: 2100000, guid: 9da2b4857c2eaef4bb873bd8d7170231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lockers
+    second: {fileID: 2100000, guid: 11d0b62a8ab74234d848d7e07219cbc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misc_01
+    second: {fileID: 2100000, guid: 31743ff4e5e7eb048bdea8df46965642, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misc_02
+    second: {fileID: 2100000, guid: 4172cea70091cb94a9207067af32a5f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shelves
+    second: {fileID: 2100000, guid: 873ab9f93713af7429dab601c4400086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tables
+    second: {fileID: 2100000, guid: 888c4190c8a33de448dc07271682372b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vent + chair
+    second: {fileID: 2100000, guid: edf332172478cee4c82a674553620a6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WC_01
+    second: {fileID: 2100000, guid: d3e48f19ccac5fb42b4b5cb16229bd5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WC_02
+    second: {fileID: 2100000, guid: c91a722acdad5d6469c231a391f3d390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipes_01
+    second: {fileID: 2100000, guid: 49522d478d74d71478c09a57528102b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipes_02
+    second: {fileID: 2100000, guid: afd2ec18e57b29a47887497ac22aa35c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
