@@ -3,7 +3,122 @@ guid: 76090bc31da80244caf55c255e426d8c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CommandSign_A
+    second: {fileID: 2100000, guid: ca72e4fe8673d5c409815599200a66e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CommandSign_B
+    second: {fileID: 2100000, guid: 4efb5eb16ffd3b64799851f3fac106ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp
+    second: {fileID: 2100000, guid: 029b1724405dc9e43b62e114097ff5f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Railing
+    second: {fileID: 2100000, guid: 26a839d8353afe7468eda81903137205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rambu
+    second: {fileID: 2100000, guid: 430e730f15d2a254faec0275cb3213a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RambuFacilitiesAndUtilities_A
+    second: {fileID: 2100000, guid: 44b2a041a656f654cacd7f9b5129ab52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RambuFacilitiesAndUtilities_B
+    second: {fileID: 2100000, guid: 50936ac898b04de45811a14aefa231c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RambuFacilitiesAndUtilities_C
+    second: {fileID: 2100000, guid: 54a9f481d3e3ca4489f59a50283e2475, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RambuFacilitiesAndUtilities_D
+    second: {fileID: 2100000, guid: 465c0d1223c3d2744882328e2ceb540c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RambuProhibitionA
+    second: {fileID: 2100000, guid: 45cef956993fa6f4697cbd4bb0801065, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RambuProhibitionB
+    second: {fileID: 2100000, guid: 44e40d85512734c4f8ff39f3e026728a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RambuProhibitionC
+    second: {fileID: 2100000, guid: c790d140eb6d9974ca21512c30fbb651, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RambuProhibitionD
+    second: {fileID: 2100000, guid: b5da67d28cb9f1246a9dc2fb495dffdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RambuWarningA
+    second: {fileID: 2100000, guid: 6e4070cf6abf6ef4a8160d1b307f647c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RambuWarningB
+    second: {fileID: 2100000, guid: 90e01d68045d43b4faea4a2fac306a11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RambuWarningC
+    second: {fileID: 2100000, guid: fa9a07faea9b14b4b80a5c98d226ae29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RambuWarningD
+    second: {fileID: 2100000, guid: 0c4737b29b03d8c43ba83085b3523d76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RambuWarningE
+    second: {fileID: 2100000, guid: bc7cfc8e30ecc694f88b571218df45fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RambuWarningF
+    second: {fileID: 2100000, guid: 5a2c6e71f9fa9f64fbf450564b0b0548, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SidewalkA
+    second: {fileID: 2100000, guid: bac1672c14e1ce342a4d6a8ae0873154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SidewalkB
+    second: {fileID: 2100000, guid: 8b2ce592ad0a0fd49925c1d1b393b6a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SidewalkC
+    second: {fileID: 2100000, guid: 929769449e913704eb3bb564c4fa5ca8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trafficlights
+    second: {fileID: 2100000, guid: 83e67a73884863f4c997f7d1fbcec663, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -35,7 +150,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 1.5
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -90,7 +205,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.015
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
